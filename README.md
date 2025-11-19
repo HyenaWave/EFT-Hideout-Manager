@@ -13,7 +13,7 @@ Plan your Escape From Tarkov hideout upgrades efficiently and stay organized lik
 
 You can download the latest executable from the **Releases** page:
 
-[![Download](https://img.shields.io/badge/Download%20v1.0.0-ZIP-blue?style=for-the-badge)](https://github.com/HyenaWave/EFT-Hideout-Manager/releases/tag/1.0.0)
+[![Download](https://img.shields.io/badge/Download%20v1.1.0-ZIP-blue?style=for-the-badge)](https://github.com/HyenaWave/EFT-Hideout-Manager/releases/tag/1.0.0)
 
 ---
 
@@ -21,10 +21,14 @@ You can download the latest executable from the **Releases** page:
 
 - 📦 **Track all hideout modules and levels**
 - 📋 **View item requirements for each upgrade**
+- 🧮 **Global / Inventory view with shortages & surplus**
+- 🏗️ **Construct button that auto-uses items and upgrades modules**
+- ✅ **Highlights modules that are fully stocked and ready to build**
 - 🗂️ **Simple and clean module list**
 - 💾 **Save and load your progress**
 - 🎨 **Clean & readable PyQt6 interface**
 - ⚙ **Includes a ready-to-use Windows executable**
+
 
 ---
 
@@ -41,9 +45,10 @@ Run the Software (Windows)
 📂 Project/
 ├── eft.py
 ├── execompile.bat
-├── start.bat
 ├── icon.ico
-└── modules.json
+├── iconhideout.png
+├── modules.json
+└── start.bat
 Run the Source Code (Python)
 ```
 
@@ -53,10 +58,9 @@ Run the Source Code (Python)
 
 ## 🖥️ Screenshots
 
-<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/dcda41b1-73ed-4e20-a196-47d1a4c23f4b" />
+<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/b09591ed-bec4-44e7-8a36-f01be88edbdd" />
 
-<img width="1601" height="943" alt="image" src="https://github.com/user-attachments/assets/309eabcb-376a-4673-8883-3c46272750dd" />
-
+<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/9a054bd8-42d2-4c10-8447-286ff11fe580" />
 
 
 ---
