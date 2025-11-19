@@ -58,10 +58,10 @@ Run the Source Code (Python)
 
 ## 🖥️ Screenshots
 
-<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/b09591ed-bec4-44e7-8a36-f01be88edbdd" />
+<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/694b6d37-8d5a-4329-bf09-c2e571a76462" />
 
-<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/9a054bd8-42d2-4c10-8447-286ff11fe580" />
 
+<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/90b55f99-aead-400c-a503-a15775a07503" />
 
 ---
 
