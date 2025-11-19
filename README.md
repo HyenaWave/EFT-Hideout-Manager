@@ -9,6 +9,12 @@ Plan your Escape From Tarkov hideout upgrades efficiently and stay organized lik
 ![Windows EXE](https://img.shields.io/badge/Windows-.EXE%20Available-brightgreen.svg)
 ![Save/Load](https://img.shields.io/badge/Feature-Save%20%2F%20Load-blue.svg)
 
+## 📦 Download
+
+You can download the latest executable from the **Releases** page:
+
+[![Download](https://img.shields.io/badge/Download%20v1.0.0-ZIP-blue?style=for-the-badge)](https://github.com/HyenaWave/EFT-Hideout-Manager/releases/tag/1.0.0)
+
 ---
 
 ## 🔧 Features
