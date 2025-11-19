@@ -1,4 +1,4 @@
-# 🛠️ HIDEOUT MANAGER v1.0
+# 🛠️ HIDEOUT MANAGER v1.1
 ### A tool by **HyenaWave**
 
 Plan your Escape From Tarkov hideout upgrades efficiently and stay organized like a true PMC.
