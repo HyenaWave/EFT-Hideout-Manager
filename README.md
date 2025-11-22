@@ -13,7 +13,7 @@ Plan your Escape From Tarkov hideout upgrades efficiently and stay organized lik
 
 You can download the latest executable from the **Releases** page:
 
-[![Download](https://img.shields.io/badge/Download%20v1.2-ZIP-blue?style=for-the-badge)](https://github.com/HyenaWave/EFT-Hideout-Manager/releases)
+[![Download](https://img.shields.io/badge/Download%20v1.2-EXE-blue?style=for-the-badge)](https://github.com/HyenaWave/EFT-Hideout-Manager/releases)
 
 ---
 
