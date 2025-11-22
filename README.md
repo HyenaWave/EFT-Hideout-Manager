@@ -1,4 +1,4 @@
-# 🛠️ HIDEOUT MANAGER v1.1
+# 🛠️ HIDEOUT MANAGER v1.2
 ### A tool by **HyenaWave**
 
 Plan your Escape From Tarkov hideout upgrades efficiently and stay organized like a true PMC.
@@ -13,7 +13,7 @@ Plan your Escape From Tarkov hideout upgrades efficiently and stay organized lik
 
 You can download the latest executable from the **Releases** page:
 
-[![Download](https://img.shields.io/badge/Download%20v1.1.0-ZIP-blue?style=for-the-badge)](https://github.com/HyenaWave/EFT-Hideout-Manager/releases)
+[![Download](https://img.shields.io/badge/Download%20v1.2-ZIP-blue?style=for-the-badge)](https://github.com/HyenaWave/EFT-Hideout-Manager/releases)
 
 ---
 
@@ -29,39 +29,13 @@ You can download the latest executable from the **Releases** page:
 - 🎨 **Clean & readable PyQt6 interface**
 - ⚙ **Includes a ready-to-use Windows executable**
 
-
----
-
-## 🏗️ Project Structure
-
-```text
-📂 Hideout-Manager/
-├── HideoutManager.exe
-├── icon.ico
-└── modules.json
-Run the Software (Windows)
-
-
-📂 Project/
-├── eft.py
-├── execompile.bat
-├── icon.ico
-├── iconhideout.png
-├── modules.json
-└── start.bat
-Run the Source Code (Python)
-```
-
-
-
 ---
 
 ## 🖥️ Screenshots
 
-<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/694b6d37-8d5a-4329-bf09-c2e571a76462" />
+<img width="1696" height="943" alt="image" src="https://github.com/user-attachments/assets/316a6d6b-6c88-488a-84df-35ffdf78a662" />
 
-
-<img width="1600" height="943" alt="image" src="https://github.com/user-attachments/assets/90b55f99-aead-400c-a503-a15775a07503" />
+<img width="1696" height="943" alt="image" src="https://github.com/user-attachments/assets/30b099cd-5dcf-415a-a86b-508174a8f9b7" />
 
 ---
 
